@@ -1,0 +1,7 @@
+jupyterlab
+langchain
+openai
+anthropic
+Pillow
+chroma
+faiss-cpu
